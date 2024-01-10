@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MultiClientTcpClient",
+    "\\MultiClientTcpClient\\ClientFiles",
+    "\\MultiClientTcpServer",
+    "\\MultiClientTcpServer\\bin\\Debug",
+    "\\MultiClientTcpServer\\ServerFiles"
+  ],
+  "SelectedNode": "\\MultiClientTcpClient\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,7 @@
+D:\INTERNSHIP\8JAN\ClientServeMerkelFIle\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.exe.config
+D:\INTERNSHIP\8JAN\ClientServeMerkelFIle\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.exe
+D:\INTERNSHIP\8JAN\ClientServeMerkelFIle\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.pdb
+D:\INTERNSHIP\8JAN\ClientServeMerkelFIle\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.csproj.AssemblyReference.cache
+D:\INTERNSHIP\8JAN\ClientServeMerkelFIle\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.csproj.CoreCompileInputs.cache
+D:\INTERNSHIP\8JAN\ClientServeMerkelFIle\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.exe
+D:\INTERNSHIP\8JAN\ClientServeMerkelFIle\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.pdb

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\INTERNSHIP\\8JAN\\ClientServeMerkelFIle\\MultiClientTcpServer\\MultiClientTcpServer.csproj": {}
+  },
+  "projects": {
+    "D:\\INTERNSHIP\\8JAN\\ClientServeMerkelFIle\\MultiClientTcpServer\\MultiClientTcpServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\INTERNSHIP\\8JAN\\ClientServeMerkelFIle\\MultiClientTcpServer\\MultiClientTcpServer.csproj",
+        "projectName": "MultiClientTcpServer",
+        "projectPath": "D:\\INTERNSHIP\\8JAN\\ClientServeMerkelFIle\\MultiClientTcpServer\\MultiClientTcpServer.csproj",
+        "packagesPath": "C:\\Users\\Ankit tripathi\\.nuget\\packages\\",
+        "outputPath": "D:\\INTERNSHIP\\8JAN\\ClientServeMerkelFIle\\MultiClientTcpServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ankit tripathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
